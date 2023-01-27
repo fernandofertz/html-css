@@ -95,5 +95,5 @@ Exercício 24 - iframe
 Exercicio 25 - Formulários
 
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form001.html">Aula de formulário 1 </a></p>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form002.html">Aula de formulário 2 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form003.html">Aula de formulário 3 </a>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form002.html">Aula de formulário 2 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form003.html">Aula de formulário 3 </a></p>
