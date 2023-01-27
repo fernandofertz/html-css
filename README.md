@@ -1,11 +1,3 @@
-<style>
-    * {
-        /* Isso é apenas um teste */
-        background-color: Black;
-        color: white;
-    }
-</style>
-
 # html-css
  Curso de HTML5 e CSS3 do Cursoemvideo
 
@@ -72,36 +64,36 @@ A PARTIR DAQUI, ALGUMAS PÁGINAS NÃO SÃO MAIS index.html, então ESTOU SEPARAN
 <a href="https://fernandofertz.github.io/html-css/exercicios/ex021/caixa02.html">Executar o exercício 021 - Box Level 2 </a>
 
 Exercício 22 - Backgrounds
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo001.html">Fundo 01 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo002.html">Fundo 02 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo003.html">Fundo 03 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo004.html">Fundo 04 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo005.html">Fundo 05 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo006.html">Fundo 06 </a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo007.html">Fundo 07 </a>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo001.html">Fundo 01 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo002.html">Fundo 02 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo003.html">Fundo 03 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo004.html">Fundo 04 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo005.html">Fundo 05 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo006.html">Fundo 06 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex022/fundo007.html">Fundo 07 </a></p>
 
 Exercício 23 - Tabelas
 
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela001.html">Aula 01</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela002.html">Aula 02</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela003.html">Aula 03</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela004.html">Aula 04</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela005.html">Aula 05</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela006.html">Aula 06</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/desafiotabela01.html">Aqui foi o primeiro desafio passado pelo Guanabara, fiz com sucesso!</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex023/desafiotabela02.html">Aqui foi o segundo desafio passado pelo Guanabara, fiz com sucesso!</a>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela001.html">Aula 01</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela002.html">Aula 02</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela003.html">Aula 03</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela004.html">Aula 04</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela005.html">Aula 05</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/tabela006.html">Aula 06</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/desafiotabela01.html">Aqui foi o primeiro desafio passado pelo Guanabara, fiz com sucesso!</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex023/desafiotabela02.html">Aqui foi o segundo desafio passado pelo Guanabara, fiz com sucesso!</a></p>
 
 Exercício 24 - iframe
 
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe001.html">Aula de iframe 1</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe002.html">Aula de iframe 2</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe003.html">Aula de iframe 3</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe004.html">Aula de iframe 4</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe005.html">Aula de iframe 5</a>
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe006.html">Aula de iframe 6</a>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe001.html">Aula de iframe 1</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe002.html">Aula de iframe 2</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe003.html">Aula de iframe 3</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe004.html">Aula de iframe 4</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe005.html">Aula de iframe 5</a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex024/iframe006.html">Aula de iframe 6</a></p>
 
 Exercicio 25 - Formulários
 
-<a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form001.html">Aula de formulário 1 </a>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form001.html">Aula de formulário 1 </a></p>
 <a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form002.html">Aula de formulário 2 </a>
 <a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form003.html">Aula de formulário 3 </a>
