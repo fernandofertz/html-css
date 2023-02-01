@@ -99,3 +99,5 @@ Exercicio 25 - Formulários
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form003.html">Aula de formulário 3 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form004.html">Aula de formulário 4 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form005.html">Aula de formulário 5 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form006.html">Aula de formulário 6 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form007.html">Aula de formulário 7 </a></p>
