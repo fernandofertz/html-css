@@ -101,3 +101,8 @@ Exercicio 25 - Formulários
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form005.html">Aula de formulário 5 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form006.html">Aula de formulário 6 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex025/form007.html">Aula de formulário 7 </a></p>
+
+Exercício 26 - Media Queries 
+
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq001/index.html"> Aula de Media Query 1 </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq002/index.html"> Aula de Media Query 2 </a></p>
