@@ -108,3 +108,4 @@ Exercício 26 - Media Queries
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq002/index.html"> Aula de Media Query 2 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq003/index.html"> Aula de Media Query 3 </a></p>
 <p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq004/index.html"> Aula de Media Query 4 - Mobile First </a></p>
+<p><a href="https://fernandofertz.github.io/html-css/exercicios/ex026/mq005/index.html"> Aula de Media Query 5 - Criação do Menu Hamburguer </a></p>
